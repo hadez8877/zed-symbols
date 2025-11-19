@@ -2711,6 +2711,22 @@
         "__scss__": {
           "collapsed": "./icons/folders/folder-sass.svg",
           "expanded": "./icons/folders/folder-sass.svg"
+        },
+        "zed": {
+          "collapsed": "./icons/folders/folder-zed.svg",
+          "expanded": "./icons/folders/folder-zed.svg"
+        },
+        ".zed": {
+          "collapsed": "./icons/folders/folder-zed.svg",
+          "expanded": "./icons/folders/folder-zed.svg"
+        },
+        "_zed": {
+          "collapsed": "./icons/folders/folder-zed.svg",
+          "expanded": "./icons/folders/folder-zed.svg"
+        },
+        "__zed__": {
+          "collapsed": "./icons/folders/folder-zed.svg",
+          "expanded": "./icons/folders/folder-zed.svg"
         }
       },
       "file_suffixes": {
